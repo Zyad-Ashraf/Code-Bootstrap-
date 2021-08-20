@@ -245,5 +245,11 @@ hr {
     transform: scale(1.2, 1.2);
 }
 
+@media (max-width:750px) {
+    #footer .cr div {
+        text-align: center;
+    }
+}
+
 
 /*---------The End of Footer-------*/
