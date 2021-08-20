@@ -78,6 +78,7 @@ nav .navbar-collapse form button:hover {
     margin: auto;
     width: 300px;
     border: 1px purple solid;
+    background-color: purple;
 }
 
 #aboutUs .information h2 {
@@ -116,6 +117,7 @@ nav .navbar-collapse form button:hover {
     margin: auto;
     width: 300px;
     border: 1px purple solid;
+    background-color: purple;
 }
 
 #gallary a:hover,
@@ -169,6 +171,7 @@ nav .navbar-collapse form button:hover {
     margin: auto;
     width: 300px;
     border: 1px purple solid;
+    background-color: purple;
 }
 
 #contactUs h2 {
